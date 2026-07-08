@@ -1,8 +1,6 @@
 # itelect2-project
 My IT Elective 2 backend web development project.
 
-Welcome to the foundation repository for the **itelect2-project**. This repository serves as the initial setup for learning and implementing basic Git operations, version control workflows, and simple web project structures.
-
 ---
 
 ## 📁 Repository Structure
@@ -21,4 +19,4 @@ To get a local copy of this project up and running on your machine, follow these
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Kaizen0930/itelect2-project.git](https://github.com/Kaizen0930/itelect2-project.git)
+git clone [https://github.com/kiehlalvarez/itelect2-project.git](https://github.com/kiehlalvarez/itelect2-project.git)
