@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "description": "My IT Elective 2 backend web development project.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaizen0930/itelect2-project.git"
+    "url": "git+https://github.com/kiehlalvarez/itelect2-project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Kaizen0930/itelect2-project/issues"
+    "url": "https://github.com/kiehlalvarez/itelect2-project/issues"
   },
-  "homepage": "https://github.com/Kaizen0930/itelect2-project#readme"
+  "homepage": "https://github.com/kiehlalvarez/itelect2-project#readme"
 }
